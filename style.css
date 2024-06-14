@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+div{
+    height: 100px;
+    width: 500px;
+    border: 1px solid black;
+    margin: 10px;
+}
+button{
+    border-radius: 5px;
+    color:white;
+    padding: 5px 15px;
+    background-color: blueviolet;
+}
